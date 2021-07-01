@@ -1,0 +1,44 @@
+<!DOCUMENT html>
+<<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+	<h1 style="font-family:sans-serif;"><b>This is what I learnt about html from </b><a href="https://www.w3schools.com/html/default.asp">W3schools</a></h1>
+	<p>First of all i learnt about various tags like this is a paragraph</p>
+	<h1 style="text-align:Center;">This is a heading</h1>
+	<h1 style="text-align:center;">Centered Heading</h1>
+	<h1>This is a big heading</h1>
+	<h4>This is a smaller one</h6>
+	<h3 style="font-family: cursive;"> I also learnt about the types of font.</h3>
+	<h3 style="font-family:sans-serif;">This is another font.</h3>
+	<h3 style="font-family: fantasy;">This is another font.</h3>
+	<h3 style="font-family:monospace;">Not braging but I also know this one and many more.</h3>
+	<h1 style="text-align: Center;">Then i came to know to align texts</h1>
+	<h3 style="color: powderblue;"><i>Then I came to know about how to change the colour of texts and how to highlight them</i></h3>
+	<h2 style="color: mediumslateblue;">This colour is so soothing..<q>Ahh</q></h2>
+	<h1 style="color: lightgreen;background:seagreen;";><b>Then I came to know that I can change  the back ground of texts the texts with colors</b></h1>
+
+	<h1 style="color:red;border: 5px solid red;background:rgb(238,130,238);">See some awsome colours <h1>
+		<h1 style="background-color:rgb(255, 0, 0);">rgb(255, 0, 0)</h1>
+<h1 style="text-align: center;background-color:rgb(0, 0, 255);">rgb(0, 0, 255)</h1>
+<h1 style="background-color:rgb(60, 179, 113);">rgb(60, 179, 113)</h1>
+<h1 style="background-color:rgb(238, 130, 238);">rgb(238, 130, 238)</h1>
+<h1 style="background-color:rgb(255, 165, 0);">rgb(255, 165, 0)</h1>
+<h1 style="background-color:rgb(106, 90, 205);">rgb(106, 90, 205)</h1>
+<body style="font-family: cursive;">
+<h1 style="background-color:rgba(60, 179, 113, 0.2);"> Then I also learnt how to change opacity of the texts with rgba()</h1>
+<h1 style="background-color:rgba(60, 179, 113, 0.4);"> Then I also learnt how to change opacity of the texts with rgba()</h1>
+<h1 style="background-color:rgba(60, 179, 113, 0.8);"> Then I also learnt how to change opacity of the texts with rgba()</h1>
+<h1 style="background-color:rgba(60, 179, 113,1.0);"> Then I also learnt how to change opacity of the texts with rgba()</h1>
+</body>
+<p style="font-size: 30px;">I also learn how to quote parts of websites and how to make previews like <abbr title="Konnichiwa">THIS</abbr> and<blockquote cite="https://www.google.com/search?q=hwllo+in+japanese&rlz=1C1CHBD_enIN927IN927&oq=hwllo+in+japanese&aqs=chrome..69i57j0i10i433j0i10l8.3041j0j7&sourceid=chrome&ie=UTF-8", style="color: rgb(255,0,0);font-family:cursive;font-size: 30px;">Showing results for hello in japanese
+Search instead for hello in japanese from the website <a href="https://www.google.com/search?q=hwllo+in+japanese&rlz=1C1CHBD_enIN927IN927&oq=hwllo+in+japanese&aqs=chrome..69i57j0i10i433j0i10l8.3041j0j7&sourceid=chrome&ie=UTF-8">Here</blockquote>
+
+
+
+</body>
+
+</html>
